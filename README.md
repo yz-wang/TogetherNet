@@ -22,6 +22,14 @@ DOI = {10.1111/cgf.14692}
 }
 ```  
 
+## VOC-FOG Dataset
+
+- Our VOC-FOG dataset is available at:
+1. Baidu Netdisk: https://pan.baidu.com/s/1lQXSuqdpjPTMHMvky4TIVQ        
+Code: tvyz
+
+2. Google Drive: coming soon.
+
 ## Prerequisites
 Python 3.6 or above.
 
@@ -35,14 +43,6 @@ For packages, see requirements.txt.
   For pip users, please type the command `pip install -r requirements.txt`.
 
   For Conda users,  you can create a new Conda environment using `conda env create -f environment.yml`.
-  
-## VOC-FOG Dataset
-
-- Our VOC-FOG dataset is available at:
-1. Baidu Netdisk: https://pan.baidu.com/s/1lQXSuqdpjPTMHMvky4TIVQ        
-Code: tvyz
-
-2. Google Drive: coming soon.
   
 ### TogetherNet Training and Test
 
