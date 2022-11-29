@@ -28,7 +28,7 @@ DOI = {10.1111/cgf.14692}
 1. Baidu Netdisk: https://pan.baidu.com/s/1lQXSuqdpjPTMHMvky4TIVQ        
 Code: tvyz
 
-2. Google Drive: https://drive.google.com/file/d/1bLUtwrKwzPwLI3yZBFZYw4BnINpxCfVp/view?usp=sharing.
+2. Google Drive: https://drive.google.com/file/d/1bLUtwrKwzPwLI3yZBFZYw4BnINpxCfVp/view?usp=sharing
 
 - You should first convert the images and annotations to YOLO labels.
 
